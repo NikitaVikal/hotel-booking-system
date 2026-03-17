@@ -1,0 +1,44 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+.controls {
+  margin: 20px;
+}
+
+#hotel {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 10px;
+  margin: 20px;
+}
+
+.floor {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.room {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
+
+/* Colors */
+.available {
+  background-color: lightgreen;
+}
+
+.booked {
+  background-color: lightcoral;
+}
+
+.selected {
+  background-color: lightblue;
+}
