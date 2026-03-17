@@ -58,14 +58,14 @@ It follows specific booking rules such as prioritizing same-floor allocation and
 ---
 
 ## 🌐 Live Demo
-(Add your GitHub Pages link here)
+[(Add your GitHub Pages link here)](https://nikitavikal.github.io/hotel-booking-system/)
 
 ---
 
 ## 📂 Repository
-(Add your GitHub repo link here)
-
+[(Add your GitHub repo link here)
+](https://github.com/nikitavikal/hotel-booking-system)
 ---
 
 ## ✍️ Author
-Your Name
+Nikita
